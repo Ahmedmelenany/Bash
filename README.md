@@ -1,6 +1,6 @@
-#Bash Script
+# Bash Script
 
-#Bash.sh
+# Bash.sh
 
 - This script is using to managing users and groups
 
